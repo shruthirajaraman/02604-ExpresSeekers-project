@@ -25,3 +25,5 @@ Performs gene ontology enrichment (biological process, molecular function, KEGG 
 
 ### ModelTraining  
 Supervised learning models (e.g., XGBoost, SVM, Logistic Regression) trained on selected gene sets to classify lung cancer subtypes.
+
+## Contributors

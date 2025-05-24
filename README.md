@@ -27,3 +27,6 @@ Performs gene ontology enrichment (biological process, molecular function, KEGG 
 Supervised learning models (e.g., XGBoost, SVM, Logistic Regression) trained on selected gene sets to classify lung cancer subtypes.
 
 ## Contributors
+*   [Lalithashruthi Rajaraman](https://github.com/shruthirajaraman)
+*   [Simran Sodhi](https://github.com/Simran-Sodhi)
+*   [Sanchitha Kuthethoor](https://github.com/SanchithaK)
